@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07aa0b71-8d03-478d-bbce-74b6afb1a937" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/plugins/firmware" />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="ProjectId" id="1aEj80SYmdbOtHTKJxm1FDVOQJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07aa0b71-8d03-478d-bbce-74b6afb1a937" name="Default Changelist" comment="" />
+      <created>1586307483706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586307483706</updated>
+      <workItem from="1586307484857" duration="4787000" />
+      <workItem from="1586387214947" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586308167749">
+      <screen x="0" y="86" width="2560" height="1354" />
+    </state>
+    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586308167749" />
+    <state x="1009" y="447" key="FileChooserDialogImpl" timestamp="1586387226732">
+      <screen x="0" y="86" width="2560" height="1354" />
+    </state>
+    <state x="1009" y="447" key="FileChooserDialogImpl/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586387226732" />
+    <state x="675" y="321" key="SettingsEditor" timestamp="1586308267185">
+      <screen x="0" y="86" width="2560" height="1354" />
+    </state>
+    <state x="675" y="321" key="SettingsEditor/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586308267185" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\phillip.madsen\Sites\plugin.dev.cc</wordpressPath>
+  </component>
+</project>
