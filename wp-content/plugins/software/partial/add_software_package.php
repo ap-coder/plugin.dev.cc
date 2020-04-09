@@ -7,8 +7,8 @@
 		<h2><?php esc_html_e( 'Add Software' ); ?></h2>
 		<hr>
 
-		<form method="POST" action="file/upload"  enctype="multipart/form-data">
-<?php // echo swroute('file/upload'); ?>
+		<form method="POST" action="<?php echo swroute('file/upload'); ?>" enctype="multipart/form-data">
+ 
 			<div class="card" style="max-width: 80%">
 				<table class="form-table">
 					<tbody>
