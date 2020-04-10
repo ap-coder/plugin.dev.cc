@@ -96,6 +96,9 @@ if ( !defined('WP_DEBUG_DISPLAY') ) {
 	define('WP_DEBUG_DISPLAY', false);
 }
 
+define('AUTOSAVE_INTERVAL', 300 ); // seconds
+define('WP_POST_REVISIONS', false );
+
 
 /* That's all, stop editing! Happy publishing. */
 

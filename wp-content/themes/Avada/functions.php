@@ -51,3 +51,10 @@ if ( version_compare( $GLOBALS['wp_version'], AVADA_MIN_WP_VER_REQUIRED, '<' ) |
 require_once get_template_directory() . '/includes/bootstrap.php';
 
 /* Omit closing PHP tag to avoid "Headers already sent" issues. */
+
+
+//Remove the filter if it already exists
+remove_filter('widget_text', 'do_shortcode');
+
+//Add the filter to apply the shotcode action to widget text
+add_filter('widget_text', 'do_shortcode');

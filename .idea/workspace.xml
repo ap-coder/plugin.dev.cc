@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07aa0b71-8d03-478d-bbce-74b6afb1a937" name="Default Changelist" comment="" />
+    <list default="true" id="07aa0b71-8d03-478d-bbce-74b6afb1a937" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/code-software/framework/source/v1/controllers/FileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/code-software/framework/source/v1/controllers/FileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/code-software/include/actions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/code-software/include/actions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/Avada/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Avada/functions.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +23,9 @@
     <drupalPath />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/plugins/firmware" />
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/plugins/code-software" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JoomlaConfiguration">
     <joomlaConfigPath />
@@ -34,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.php.frameworks" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,25 +57,31 @@
       <updated>1586307483706</updated>
       <workItem from="1586307484857" duration="4787000" />
       <workItem from="1586387214947" duration="17000" />
+      <workItem from="1586455792191" duration="12478000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/wp-content/plugins/firmware" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586308167749">
+    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586457041627">
       <screen x="0" y="86" width="2560" height="1354" />
     </state>
-    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586308167749" />
+    <state x="973" y="618" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586457041627" />
     <state x="1009" y="447" key="FileChooserDialogImpl" timestamp="1586387226732">
       <screen x="0" y="86" width="2560" height="1354" />
     </state>
     <state x="1009" y="447" key="FileChooserDialogImpl/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586387226732" />
-    <state x="675" y="321" key="SettingsEditor" timestamp="1586308267185">
+    <state x="675" y="321" width="1463" height="885" key="SettingsEditor" timestamp="1586458573624">
       <screen x="0" y="86" width="2560" height="1354" />
     </state>
-    <state x="675" y="321" key="SettingsEditor/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586308267185" />
+    <state x="675" y="321" width="1463" height="885" key="SettingsEditor/655.1509.1536.795/-2560.40.2560.1400/0.86.2560.1354@0.86.2560.1354" timestamp="1586458573624" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\Users\phillip.madsen\Sites\plugin.dev.cc</wordpressPath>
