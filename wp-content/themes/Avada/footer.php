@@ -62,22 +62,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<div class="avada-footer-scripts">
 			<?php wp_footer(); ?>
 		</div>
-        
-        <!-- Drip -->
-        <script type="text/javascript">
-          var _dcq = _dcq || [];
-          var _dcs = _dcs || {};
-          _dcs.account = '2663782';
-
-          (function() {
-            var dc = document.createElement('script');
-            dc.type = 'text/javascript'; dc.async = true;
-            dc.src = '//tag.getdrip.com/2663782.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(dc, s);
-          })();
-        </script>
-        <!-- end Drip -->
-        
 	</body>
 </html>

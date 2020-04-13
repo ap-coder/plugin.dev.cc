@@ -22,3 +22,7 @@ node_modules/
 *.sql
 *.sqlite
 .idea/*
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/workspace.xml

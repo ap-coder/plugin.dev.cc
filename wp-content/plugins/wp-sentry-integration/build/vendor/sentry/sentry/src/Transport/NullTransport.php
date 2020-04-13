@@ -1,0 +1,23 @@
+<?php
+
+declare (strict_types=1);
+namespace Sentry\Transport;
+
+use Sentry\Event;
+/**
+ * This transport fakes the sending of events by just ignoring them.
+ *
+ * @author Stefano Arlandini <sarlandini@alice.it>
+ *
+ * @final since 2.3
+ */
+class NullTransport implements \Sentry\Transport\TransportInterface
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function send(\Sentry\Event $event) : ?string
+    {
+        return $event->getId();
+    }
+}
